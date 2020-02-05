@@ -13,11 +13,8 @@ Planning
 5 Février : 
 
 Présentation / définition du projet
-
 Création d’un blog
-
 Introspection
-
 réalisation d’interviews (au moins une par personne, idéalement 2). Trouver des histoires sur un événement récent et mémorable utilisant une carte pour résoudre un problème. Enregistrer les questions et les réponses.
 observations (1 par personne).
 
