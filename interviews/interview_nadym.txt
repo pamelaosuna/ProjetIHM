@@ -1,0 +1,86 @@
+ INTERVIEW 1
+
+
+  -Combien de fois as-tu utilisé une application de type Maps lors de la dernière semaine ?
+
+  -Un peu plus de 10 fois je dirais.
+
+  -Très bien, à quoi te servent ces applications ?
+
+  -Principalement 2 apps, la première Waze qui est presque quotidienne puisque j'étais au Luxembourg et j'allais au travail en voiture. Et aussi City Mapper ici pour vérifier les perturbations des transports. J'ouvre City Mapper chaque jour pour voir comment va le réseau. 
+
+  - Comment tu t'en sers ? Est ce que tu stockes les adresses ou alors tu les retapes chaque jour ?
+
+
+  -Pour Waze, j'ai laissé Waze retenir l'adresse de mon travail puisque l'application retient les adresses. Quant à City Mapper, je n'écris pas d'adresse, je regarde simplement les perturbations.
+
+  -Tu ne te sers pas vraiment de City Mapper comme d'une carte mais plutôt comme une information ?
+
+  -Oui
+
+  -Donc tu utilises surtout Waze pour te guider dans un trajet inconnu ?
+
+  -Pas vraiment, la plupart du temps Waze me sert à estimer le temps que je vais mettre sur le trajet plutôt que le trajet.
+
+  -Waze a t-il un rôle indicatif ou alors impératif à tes yeux ?
+
+  -Je fais généralement bien confiance à Waze en région parisienne mais au Luxembourg pas trop.
+
+  - Est ce que tu considères que les applications de carte sont essentielles à consulter avant de sortir ?
+
+  -Oui, pour aller quelque part à plus de 15 minutes de chez moi, c'est certain que je vais consulter une application de carte.
+
+  -As-tu une idée de fonctionnalité à ajouter à une ou plusieurs applications de cartes ?
+
+  -Oui, j'aimerais un aspect plus communautaire sur City Mapper comme pour s'avertir les uns les autres de zones de danger.
+
+  -Aimerais-tu que les applications de cartes soient plus aggressives avec plus d'utilisations de cookies voire d'IA pour t'informer d'elle même ?
+
+ - Ça ne me gênerait pas, City Mapper le fait de temps en temps. C'est pratiquement inutile pour moi mais ça ne me dérange pas.
+
+  -As-tu parfois des utilisations des applications où tu te retrouves à faire une tâche chiante qui pourrait facilement être automatisable ?
+
+  -Non pas vraiment, néanmoins j'ai remarqué que beaucoup de gens ne connaissent pas certaines fonctionnalités de Waze par exemple (partager itinéraire)
+
+  -Ça t'arrive de regarder la carte sans but ?
+
+  -Oui ça m'arrive, parfois j'explore des villes de la carte afin de trouver un restaurant, un bar, une activité....
+
+
+INTERVIEW 2
+
+-Combien de fois as-tu utilisé une application de type Maps lors de la dernière semaine ?
+
+  -Un peu plus de 15 fois environ
+
+  -Très bien, à quoi te servent ces applications ?
+
+ -J'utilise surtout une application : Google Maps. Elle m'offre les résultats les plus précis selon moi et donne accès à pas mal de fonctionnalités pour personnaliser mon trajet. 
+
+  - Pourquoi tu t'en sers ?
+
+
+  - Je m'en sers pour regarder le trajet et retour en allant au travail. J'ai plusieurs possibilités sur ce trajet qui sont pratiquement équivalentes et je veux, à chaque fois, prendre celui avec le moins de problèmes.
+
+  -Maps te sert donc d'information et pas vraiment de guide ?
+
+  -On peut dire ça.
+
+  -Aimerais tu que Maps pousse la personnalisation au point de te proposer un service unique pour toi ?
+
+  -Oh oui, ça me plairait beaucoup.
+
+  -Quel crédit accordes-tu aux trajets proposés par Maps ? 
+
+  -C'est à dire ?
+
+  -Si Maps te dit d'emprunter un chemin mais que ton instinct, motivé par différentes raisons, te dit d'en prendre un autre. Que fais-tu ?
+
+  -Hmmm, ça ne m'arrive jamais. Je considère que les informations auxquelles Maps a accès sont plus complètes que les miennes et que j'estime moins bien les temps de trajet.
+
+  -Il n'y a pas des choses que tu voudrais voir changer dans Maps ?
+
+  -Question difficile, tu as parlé de personnalisation. Peut être que la possibilité de planifier des trajets à l'avance pourrait me plaire. Ou encore une petit interface pour automatiser des comportements... mais bon, maps est très bien comme il est pour moi.
+
+
+
